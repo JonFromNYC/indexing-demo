@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "nebraska",
+    "title": "Nebraska",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Nebraska is best known for corn and prairie landscapes."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

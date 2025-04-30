@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "iowa",
+    "title": "Iowa",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Iowa is best known for cornfields and caucuses."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

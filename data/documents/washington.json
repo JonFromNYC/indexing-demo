@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "washington",
+    "title": "Washington",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Washington is best known for tech companies and coffee culture."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

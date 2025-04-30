@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "new_jersey",
+    "title": "New Jersey",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "New Jersey is best known for the Jersey Shore and diners."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

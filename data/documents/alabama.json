@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "alabama",
+    "title": "Alabama",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Alabama is best known for its role in the Civil Rights Movement."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

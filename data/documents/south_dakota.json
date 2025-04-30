@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "south_dakota",
+    "title": "South Dakota",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "South Dakota is best known for Mount Rushmore and Badlands National Park."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "new_york",
+    "title": "New York",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "New York is best known for New York City and Niagara Falls."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

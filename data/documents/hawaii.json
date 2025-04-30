@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "hawaii",
+    "title": "Hawaii",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Hawaii is best known for its islands and volcanic landscapes."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

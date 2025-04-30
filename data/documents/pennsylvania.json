@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "pennsylvania",
+    "title": "Pennsylvania",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Pennsylvania is best known for the Liberty Bell and Hershey chocolate."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "north_carolina",
+    "title": "North Carolina",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "North Carolina is best known for the Wright brothers and the Outer Banks."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

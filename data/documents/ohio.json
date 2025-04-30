@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "ohio",
+    "title": "Ohio",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Ohio is best known for presidents and the Rock and Roll Hall of Fame."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

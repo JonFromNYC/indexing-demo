@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "arizona",
+    "title": "Arizona",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Arizona is best known for the Grand Canyon."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

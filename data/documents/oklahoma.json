@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "oklahoma",
+    "title": "Oklahoma",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Oklahoma is best known for tornadoes and Native American history."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "kentucky",
+    "title": "Kentucky",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Kentucky is best known for bourbon and the Kentucky Derby."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

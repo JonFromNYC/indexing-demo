@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "utah",
+    "title": "Utah",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Utah is best known for national parks and Mormon heritage."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

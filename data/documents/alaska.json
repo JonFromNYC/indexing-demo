@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "alaska",
+    "title": "Alaska",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Alaska is best known for its vast wilderness and northern lights."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

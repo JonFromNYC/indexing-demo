@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "michigan",
+    "title": "Michigan",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Michigan is best known for the Great Lakes and automobile industry."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

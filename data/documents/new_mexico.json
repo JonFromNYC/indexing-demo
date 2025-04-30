@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "new_mexico",
+    "title": "New Mexico",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "New Mexico is best known for desert landscapes and adobe architecture."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

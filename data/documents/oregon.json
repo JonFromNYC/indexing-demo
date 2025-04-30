@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "oregon",
+    "title": "Oregon",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Oregon is best known for forests, coastlines, and craft beer."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

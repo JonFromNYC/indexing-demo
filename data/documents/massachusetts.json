@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "massachusetts",
+    "title": "Massachusetts",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Massachusetts is best known for the Boston Tea Party and Harvard University."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

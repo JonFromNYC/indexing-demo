@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "south_carolina",
+    "title": "South Carolina",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "South Carolina is best known for historic Charleston and beaches."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}
