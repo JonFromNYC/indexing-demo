@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "louisiana",
+    "title": "Louisiana",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Louisiana is best known for jazz and Mardi Gras in New Orleans."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

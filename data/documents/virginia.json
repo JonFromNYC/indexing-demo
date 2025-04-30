@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "virginia",
+    "title": "Virginia",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Virginia is best known for colonial history and the Pentagon."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

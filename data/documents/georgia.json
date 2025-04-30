@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "georgia",
+    "title": "Georgia",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Georgia is best known for peaches and southern hospitality."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

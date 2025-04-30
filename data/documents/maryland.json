@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "maryland",
+    "title": "Maryland",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Maryland is best known for blue crabs and Chesapeake Bay."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

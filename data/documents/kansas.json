@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "kansas",
+    "title": "Kansas",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Kansas is best known for flat plains and tornadoes."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

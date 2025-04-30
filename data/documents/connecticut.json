@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "connecticut",
+    "title": "Connecticut",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Connecticut is best known for its colonial history and Yale University."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

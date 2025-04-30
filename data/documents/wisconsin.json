@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "wisconsin",
+    "title": "Wisconsin",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Wisconsin is best known for cheese and the Green Bay Packers."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

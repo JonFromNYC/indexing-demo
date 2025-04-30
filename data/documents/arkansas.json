@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "arkansas",
+    "title": "Arkansas",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Arkansas is best known for its natural hot springs and mountains."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "nevada",
+    "title": "Nevada",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Nevada is best known for Las Vegas and desert scenery."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

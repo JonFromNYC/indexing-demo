@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "illinois",
+    "title": "Illinois",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Illinois is best known for Chicago and deep-dish pizza."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

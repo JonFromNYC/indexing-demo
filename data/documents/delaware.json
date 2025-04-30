@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "delaware",
+    "title": "Delaware",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Delaware is best known for being the first state to ratify the Constitution."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

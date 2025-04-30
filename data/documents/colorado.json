@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "colorado",
+    "title": "Colorado",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Colorado is best known for the Rocky Mountains and skiing."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

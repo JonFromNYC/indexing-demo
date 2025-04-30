@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "texas",
+    "title": "Texas",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Texas is best known for barbecue, oil, and cowboy culture."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

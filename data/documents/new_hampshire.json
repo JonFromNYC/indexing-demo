@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "new_hampshire",
+    "title": "New Hampshire",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "New Hampshire is best known for fall foliage and the first primary."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

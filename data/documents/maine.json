@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "maine",
+    "title": "Maine",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Maine is best known for lobsters and rugged coastline."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

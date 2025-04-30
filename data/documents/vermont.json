@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "vermont",
+    "title": "Vermont",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Vermont is best known for maple syrup and fall colors."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

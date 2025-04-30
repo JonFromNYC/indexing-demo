@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "idaho",
+    "title": "Idaho",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Idaho is best known for potatoes and mountain ranges."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

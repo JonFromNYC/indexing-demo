@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "tennessee",
+    "title": "Tennessee",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Tennessee is best known for Nashville and country music."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}

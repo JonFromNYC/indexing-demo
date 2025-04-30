@@ -1,0 +1,18 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "objectType": "StateInfo",
+    "id": "florida",
+    "title": "Florida",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Florida is best known for its beaches and theme parks like Disney World."
+    },
+    "owners": [
+      {
+        "name": "jonfromnashville@gmail.com",
+        "datasourceUserId": "jonfromnashville@gmail.com"
+      }
+    ]
+  }
+}
