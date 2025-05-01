@@ -1,6 +1,7 @@
 {
   "document": {
     "datasource": "interviewds",
+"containerDatasourceId": "<string>",
     "objectType": "StateInfo",
     "id": "new_york",
     "title": "New York",
@@ -8,6 +9,20 @@
       "mimeType": "text/plain",
       "textContent": "New York is best known for New York City and Niagara Falls."
     },
+"viewURL": "https://en.wikipedia.org/wiki/",
+        "permissions": {
+            "allowedUsers": [
+                {
+                    "email": "alex@glean-sandbox.com",
+                    "datasourceUserId": "alex@glean-sandbox.com",
+                    "name": "Jonathan"
+                }
+            ],
+            "allowedGroups": ["<string>"],
+            "allowedGroupIntersections": [{"requiredGroups": ["<string>"]}],
+            "allowAnonymousAccess": true,
+            "allowAllDatasourceUsersAccess": true
+        },
     "owners": [
       {
         "name": "jonfromnashville@gmail.com",

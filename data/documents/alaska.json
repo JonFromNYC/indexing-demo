@@ -1,6 +1,7 @@
 {
   "document": {
     "datasource": "interviewds",
+"containerDatasourceId": "<string>",
     "objectType": "StateInfo",
     "id": "alaska",
     "title": "Alaska",
@@ -8,6 +9,20 @@
       "mimeType": "text/plain",
       "textContent": "Alaska is best known for its vast wilderness and northern lights."
     },
+"viewURL": "https://en.wikipedia.org/wiki/",
+        "permissions": {
+            "allowedUsers": [
+                {
+                    "email": "alex@glean-sandbox.com",
+                    "datasourceUserId": "alex@glean-sandbox.com",
+                    "name": "Jonathan"
+                }
+            ],
+            "allowedGroups": ["<string>"],
+            "allowedGroupIntersections": [{"requiredGroups": ["<string>"]}],
+            "allowAnonymousAccess": true,
+            "allowAllDatasourceUsersAccess": true
+        },
     "owners": [
       {
         "name": "jonfromnashville@gmail.com",

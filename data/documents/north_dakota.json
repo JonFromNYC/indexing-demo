@@ -1,6 +1,7 @@
 {
   "document": {
     "datasource": "interviewds",
+"containerDatasourceId": "<string>",
     "objectType": "StateInfo",
     "id": "north_dakota",
     "title": "North Dakota",
@@ -8,6 +9,20 @@
       "mimeType": "text/plain",
       "textContent": "North Dakota is best known for open plains and cold winters."
     },
+"viewURL": "https://en.wikipedia.org/wiki/",
+        "permissions": {
+            "allowedUsers": [
+                {
+                    "email": "alex@glean-sandbox.com",
+                    "datasourceUserId": "alex@glean-sandbox.com",
+                    "name": "Jonathan"
+                }
+            ],
+            "allowedGroups": ["<string>"],
+            "allowedGroupIntersections": [{"requiredGroups": ["<string>"]}],
+            "allowAnonymousAccess": true,
+            "allowAllDatasourceUsersAccess": true
+        },
     "owners": [
       {
         "name": "jonfromnashville@gmail.com",
