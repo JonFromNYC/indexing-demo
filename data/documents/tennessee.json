@@ -8,6 +8,28 @@
       "mimeType": "text/plain",
       "textContent": "Tennessee is best known for Nashville and country music."
     },
+    "viewURL": "https://en.wikipedia.org/wiki/",
+    "permissions": {
+      "allowedUsers": [
+        {
+          "email": "alex@glean-sandbox.com",
+          "datasourceUserId": "alex@glean-sandbox.com",
+          "name": "Jonathan"
+        }
+      ],
+      "allowedGroups": [
+        "<string>"
+      ],
+      "allowedGroupIntersections": [
+        {
+          "requiredGroups": [
+            "<string>"
+          ]
+        }
+      ],
+      "allowAnonymousAccess": true,
+      "allowAllDatasourceUsersAccess": true
+    },
     "owners": [
       {
         "name": "jonfromnashville@gmail.com",

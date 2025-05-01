@@ -1,12 +1,27 @@
 {
   "document": {
     "datasource": "interviewds",
+"containerDatasourceId": "<string>",
     "objectType": "StateInfo",
     "id": "arizona",
     "title": "Arizona",
     "body": {
       "mimeType": "text/plain",
       "textContent": "Arizona is best known for the Grand Canyon."
+    },
+    "viewURL": "https://en.wikipedia.org/wiki/",
+    "permissions": {
+        "allowedUsers": [
+            {
+                "email": "alex@glean-sandbox.com",
+                "datasourceUserId": "alex@glean-sandbox.com",
+                "name": "Jonathan"
+            }
+        ],
+        "allowedGroups": ["<string>"],
+        "allowedGroupIntersections": [{"requiredGroups": ["<string>"]}],
+        "allowAnonymousAccess": true,
+        "allowAllDatasourceUsersAccess": true
     },
     "owners": [
       {

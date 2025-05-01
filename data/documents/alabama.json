@@ -1,12 +1,35 @@
 {
   "document": {
     "datasource": "interviewds",
+    "containerDatasourceId": "<string>",
     "objectType": "StateInfo",
     "id": "alabama",
     "title": "Alabama",
     "body": {
       "mimeType": "text/plain",
       "textContent": "Alabama is best known for its role in the Civil Rights Movement."
+    },
+    "viewURL": "https://en.wikipedia.org/wiki/",
+    "permissions": {
+      "allowedUsers": [
+        {
+          "email": "alex@glean-sandbox.com",
+          "datasourceUserId": "alex@glean-sandbox.com",
+          "name": "Jonathan"
+        }
+      ],
+      "allowedGroups": [
+        "<string>"
+      ],
+      "allowedGroupIntersections": [
+        {
+          "requiredGroups": [
+            "<string>"
+          ]
+        }
+      ],
+      "allowAnonymousAccess": true,
+      "allowAllDatasourceUsersAccess": true
     },
     "owners": [
       {
