@@ -16,24 +16,14 @@
           "datasourceUserId": "alex@glean-sandbox.com",
           "name": "Jonathan"
         }
-      ],
-      "allowedGroups": [
-        "<string>"
-      ],
-      "allowedGroupIntersections": [
-        {
-          "requiredGroups": [
-            "<string>"
-          ]
-        }
-      ],
-      "allowAnonymousAccess": true,
-      "allowAllDatasourceUsersAccess": true
+      ]
+      
+      
     },
     "owners": [
       {
-        "name": "jonfromnashville@gmail.com",
-        "datasourceUserId": "jonfromnashville@gmail.com"
+        "name": "alex@glean-sandbox.com",
+        "datasourceUserId": "alex@glean-sandbox.com"
       }
     ]
   }

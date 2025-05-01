@@ -66,13 +66,8 @@ for filename in os.listdir(data_folder):
                     "name": owner.get("name"),
                 },
                 "permissions": {
-                    "allowedUsers": [
-                        {
-                            "email": permission.get("allowedUsers", [{}])[0].get("email"),
-                            "datasourceUserId": permission.get("allowedUsers", [{}])[0].get("emdatasourceUserIdail"),
-                            "name": permission.get("allowedUsers", [{}])[0].get("name"),
-                        }
-                    ]
+                    "allowAnonymousAccess": True,
+                    "allowAllDatasourceUsersAccess": True
                 },
             },
         }

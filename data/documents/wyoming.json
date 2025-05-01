@@ -1,7 +1,7 @@
 {
   "document": {
     "datasource": "interviewds",
-"containerDatasourceId": "<string>",
+    "containerDatasourceId": "<string>",
     "objectType": "StateInfo",
     "id": "wyoming",
     "title": "Wyoming",
@@ -9,24 +9,22 @@
       "mimeType": "text/plain",
       "textContent": "Wyoming is best known for Yellowstone National Park and wide-open spaces."
     },
-"viewURL": "https://en.wikipedia.org/wiki/wyoming",
-        "permissions": {
-            "allowedUsers": [
-                {
-                    "email": "alex@glean-sandbox.com",
-                    "datasourceUserId": "alex@glean-sandbox.com",
-                    "name": "Jonathan"
-                }
-            ],
-            "allowedGroups": ["<string>"],
-            "allowedGroupIntersections": [{"requiredGroups": ["<string>"]}],
-            "allowAnonymousAccess": true,
-            "allowAllDatasourceUsersAccess": true
-        },
+    "viewURL": "https://en.wikipedia.org/wiki/wyoming",
+    "permissions": {
+      "allowedUsers": [
+        {
+          "email": "alex@glean-sandbox.com",
+          "datasourceUserId": "alex@glean-sandbox.com",
+          "name": "Jonathan"
+        }
+      ]
+      
+      
+    },
     "owners": [
       {
-        "name": "jonfromnashville@gmail.com",
-        "datasourceUserId": "jonfromnashville@gmail.com"
+        "name": "alex@glean-sandbox.com",
+        "datasourceUserId": "alex@glean-sandbox.com"
       }
     ]
   }
